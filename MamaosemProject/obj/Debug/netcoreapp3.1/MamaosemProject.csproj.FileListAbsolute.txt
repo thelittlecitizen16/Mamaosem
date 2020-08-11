@@ -1,0 +1,15 @@
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\obj\Debug\netcoreapp3.1\MamaosemProject.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\obj\Debug\netcoreapp3.1\MamaosemProject.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\obj\Debug\netcoreapp3.1\MamaosemProject.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\obj\Debug\netcoreapp3.1\MamaosemProject.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\bin\Debug\netcoreapp3.1\MamaosemProject.exe
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\bin\Debug\netcoreapp3.1\MamaosemProject.deps.json
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\bin\Debug\netcoreapp3.1\MamaosemProject.runtimeconfig.json
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\bin\Debug\netcoreapp3.1\MamaosemProject.runtimeconfig.dev.json
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\bin\Debug\netcoreapp3.1\MamaosemProject.dll
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\bin\Debug\netcoreapp3.1\MamaosemProject.pdb
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\bin\Debug\netcoreapp3.1\Mamaosem.Utils.dll
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\obj\Debug\netcoreapp3.1\MamaosemProject.csproj.CopyComplete
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\obj\Debug\netcoreapp3.1\MamaosemProject.dll
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\obj\Debug\netcoreapp3.1\MamaosemProject.pdb
+C:\Users\thelittlecitizen16\Desktop\MamaosemProject\MamaosemProject\obj\Debug\netcoreapp3.1\MamaosemProject.genruntimeconfig.cache
